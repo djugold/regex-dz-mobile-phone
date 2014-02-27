@@ -1,7 +1,7 @@
 #Regular Expression for Algerian Mobile Phone Numbers
     
 ##Mobile number format
-     ^(00213|+213|0)(5|6|7)[0-9]{8}$
+     ^(00213|\+213|0)(5|6|7)[0-9]{8}$
     
 ##Javascript Example
 
