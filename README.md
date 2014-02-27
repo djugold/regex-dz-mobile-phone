@@ -6,7 +6,7 @@
 ##Javascript Example
 
 
-    var reg=  /^(00213|+213|0)(5|6|7)[0-9]{8}$/
+    var reg=  /^(00213|\+213|0)(5|6|7)[0-9]{8}$/
 
     reg.test("021481515"); // false
     reg.test("0770123456"); // true
