@@ -1,9 +1,12 @@
 #Regular Expression for Algerian Mobile Phone Numbers
-    
+# التعبير النمطي لارقال الجوال الجزائرية
+
 ##Mobile number format
+#نمط رقم الجوال
      ^(00213|\+213|0)(5|6|7)[0-9]{8}$
     
 ##Javascript Example
+##مثال جافا سكريبت
 
 ```javascript
 
