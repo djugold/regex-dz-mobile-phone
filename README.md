@@ -1,9 +1,10 @@
-#Regular Expression for Algerian Mobile Phone Numbers
+# Regular Expression for Algerian Mobile Phone Numbers
     
-##Mobile number format
+## Mobile number format
      ^(00213|\+213|0)(5|6|7)[0-9]{8}$
-    
-##Javascript Example
+## Legit mobile only
+     ^(0)(5|6|7)(4|5|6|7)[0-9]{7}$
+## Javascript Example
 
 ```javascript
 
